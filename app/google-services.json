@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "836318128480",
+    "firebase_url": "https://recycler-with-firebase.firebaseio.com",
+    "project_id": "recycler-with-firebase",
+    "storage_bucket": "recycler-with-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836318128480:android:27563058089cddb6649605",
+        "android_client_info": {
+          "package_name": "com.chandra.recycler_with_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836318128480-5ghoj8u4mrsqkln2si6h890kkop7gj71.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMUe3xD_GN7GUs19wUWVg-i7G9MUtbkac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836318128480-5ghoj8u4mrsqkln2si6h890kkop7gj71.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
